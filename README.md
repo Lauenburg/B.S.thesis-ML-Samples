@@ -1,8 +1,10 @@
-# MachineLearning
-Collection of my machine learning projects
+### Thesis
 
-The folders "Autoencoder" and "Classifier" are comprised of mainly Convolutional Neural Networks 
-implemented with Python using the Keras framework. I acquired the sample data by monitoring the energy 
-consumption characteristics of an eDo robot arm via a high-resolution energy monitoring system, which I co-engineered.
+My Bachelor thesis "Energy-based Condition Monitoring for Industry 4.0" documents the implementation of an adaptive condition monitoring system for predictive maintenance. The thesis was written in cooperation with the national research institute fortiss. The system mentioned above is based on an energy monitoring system which I have significantly contributed to develop during my work as a working student at fortiss. The thesis was graded with 1.0.
 
-Six distinct movements constitute the data, each of the motions using one of the eDo's six degrees of freedom.
+### Machine learning:
+The folders "Autoencoder" and "Classifier" contain parts of my networks, which I implemented during my bachelor thesis and which are exempted from the non-disclosure agreements. Both folders contain mainly Convolutional Neural Networks implemented with Python using the Keras framework. 
+
+### Data
+The sample data represent the energy consumption characteristics of six different movements performed by an eDo robot arm. The data was recorded by the above mentioned energy monitoring system.
+
